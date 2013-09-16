@@ -5,4 +5,4 @@
 // Completion Scope: Function or Method
 // Shortcut: string
 
-[NSString stringWithFormat:@"%@", <#name#>];
+[NSString stringWithFormat:@"%@", name];
