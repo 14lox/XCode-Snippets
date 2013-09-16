@@ -6,4 +6,4 @@
 // Completion Scope: All
 // Shortcut: @prop
 
-@property (strong, nonatomic) <#class#> <#name#>;
+@property (strong, nonatomic) <#class#> *<#name#>;
